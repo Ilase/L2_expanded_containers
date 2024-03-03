@@ -10,7 +10,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      
+      title: 'Expanded Containers',
       theme: ThemeData(
         backgroundColor: Colors.transparent
       ),
